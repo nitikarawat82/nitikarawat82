@@ -1,17 +1,19 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#36BCF7;">Nitika Rawat</span>
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  , I'm <a href="https://github.com/">Nitika Rawat</a>
 </h1>
 
 <p align="center">
-  <strong>☁️ DevOps & Cloud Infrastructure Enthusiast 🚀</strong>
+  ☁️ <strong>DevOps & Cloud Infrastructure Enthusiast 🚀</strong>
 </p>
 
 <p align="center">
   <a href="mailto:nitikarawat82@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nitika-rawat-901543226/" target="_blank">
+  <a href="https://www.linkedin.com/in/nitika-rawat-901543226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -78,23 +80,6 @@
     <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   </a>
 </p>
-
-<hr>
-
-<h2>🌱 What I'm Exploring</h2>
-
-<ul>
-  <li>🚀 DevOps Automation</li>
-  <li>☁️ Cloud Infrastructure</li>
-  <li>🔄 CI/CD Automation</li>
-  <li>🐳 Containerized Workloads</li>
-  <li>☸️ Kubernetes</li>
-  <li>🏗️ Infrastructure as Code</li>
-  <li>🔐 Cloud Security</li>
-  <li>🤖 AI & Automation in DevOps</li>
-</ul>
-
-<hr>
 
 <p align="center">
   💬 <b>Always happy to connect, learn and collaborate!</b> 😊
