@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./name.svg" width="700" alt="Hi, I'm Nitika Rawat"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  <strong style="font-size: 32px;">Hi, I'm</strong>
+  <img src="./name.svg" width="400" alt="Nitika Rawat">
 </p>
 
 <p align="center">
