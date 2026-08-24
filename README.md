@@ -1,7 +1,9 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">, I'm 
-  <a href="https://www.linkedin.com/in/nitika-rawat-901543226/" target="_blank">Nitika Rawat</a>
-</h1>
+<p align="center">
+  Hi
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+  , I'm
+  <img src="./name.svg" width="400px" alt="Nitika Rawat">
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Infrastructure+Enthusiast+%F0%9F%9A%80;AWS+Cloud+%7C+Docker+%7C+Jenkins;CI%2FCD+%7C+Terraform+%7C+Kubernetes;Building+%26+Automating+Cloud+Infrastructure" />
