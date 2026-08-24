@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
-  <strong style="font-size: 32px;">Hi, I'm</strong>
-  <img src="./name.svg" width="400" alt="Nitika Rawat">
-</p>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#36BCF7;">Nitika Rawat</span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+%26+Cloud+Infrastructure+Enthusiast+%F0%9F%9A%80;AWS+Cloud+%7C+Docker+%7C+Jenkins;CI%2FCD+%7C+Terraform+%7C+Kubernetes;Building+%26+Automating+Cloud+Infrastructure" />
+  <strong>☁️ DevOps & Cloud Infrastructure Enthusiast 🚀</strong>
 </p>
 
 <p align="center">
   <a href="mailto:nitikarawat82@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nitika-rawat-901543226/" target="_blank">
