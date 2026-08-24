@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/nitika-rawat-901543226/">
+  <a href="https://www.linkedin.com/in/nitika-rawat-901543226/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -23,15 +23,10 @@
 <h2>💼 Things I'm Currently Focusing On</h2>
 
 <ul>
-  <li>☁️ <b>AWS Cloud & Cloud Infrastructure</b></li>
-  <li>🐳 <b>Docker & Containerization</b></li>
-  <li>⚙️ <b>Jenkins & CI/CD Pipelines</b></li>
-  <li>🔄 <b>GitHub Actions & Automation</b></li>
-  <li>🏗️ <b>Terraform & Infrastructure as Code</b></li>
-  <li>☸️ <b>Kubernetes & Container Orchestration</b></li>
-  <li>🐧 <b>Linux & Shell Scripting</b></li>
-  <li>🐍 <b>Python for Automation</b></li>
-  <li>🔐 <b>Cloud Security & IAM</b></li>
+  <li>☁️ <b>Cloud & DevOps</b></li>
+  <li>⚙️ <b>DevOps Tools & Automation</b></li>
+  <li>🏗️ <b>Cloud Infrastructure & IaC</b></li>
+  <li>🤖 <b>MLOps & AI Automation</b></li>
 </ul>
 
 <hr>
@@ -54,21 +49,31 @@
 <hr>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/50/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/50/docker.png"/>
-  <img src="https://img.icons8.com/color/50/jenkins.png"/>
-  <img src="https://img.icons8.com/color/50/git.png"/>
-  <img src="https://img.icons8.com/color/50/github.png"/>
-  <img src="https://img.icons8.com/color/50/terraform.png"/>
-  <img src="https://img.icons8.com/color/50/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/50/linux.png"/>
-  <img src="https://img.icons8.com/color/50/bash.png"/>
-  <img src="https://img.icons8.com/color/50/python.png"/>
+  <img src="https://img.icons8.com/color/60/amazon-web-services.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/docker.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/jenkins.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/git.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/github.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/terraform.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/kubernetes.png"/>
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/50/prometheus.png"/>
-  <img src="https://img.icons8.com/color/50/grafana.png"/>
+  <img src="https://img.icons8.com/color/60/linux.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/bash.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/python.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/prometheus.png"/>
+  &nbsp;
+  <img src="https://img.icons8.com/color/60/grafana.png"/>
 </p>
 
 <hr>
@@ -77,28 +82,65 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/06d6b597-6611-433f-ba3b-e6de8db47542/linked_in?t=syrug7" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20%E2%80%93%20Associate-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+    <b>🔗 Click to verify my certification</b>
   </a>
 </p>
 
+<hr>
+
+<h2>🚀 What I'm Exploring</h2>
+
 <p align="center">
-  💬 <b>Always happy to connect, learn and collaborate!</b> 😊
+
+  <img src="https://img.shields.io/badge/⚙️%20DevOps%20Automation-101820?style=for-the-badge&labelColor=101820"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/☁️%20Cloud%20Infrastructure-101820?style=for-the-badge&labelColor=101820"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/🔄%20CI%2FCD%20Automation-101820?style=for-the-badge&labelColor=101820"/>
+
 </p>
 
 <p align="center">
-  ⭐ If you find my work interesting, consider starring my repositories!
+
+  <img src="https://img.shields.io/badge/🐳%20Containerized%20Workloads-101820?style=for-the-badge&labelColor=101820"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/☸️%20Kubernetes-101820?style=for-the-badge&labelColor=101820"/>
+
 </p>
 
 <p align="center">
-  🚀 Keep Learning • Keep Building • Keep Automating
+
+  <img src="https://img.shields.io/badge/%3C%2F%3E%20Infrastructure%20as%20Code-101820?style=for-the-badge&labelColor=101820"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/🔐%20Cloud%20Security-101820?style=for-the-badge&labelColor=101820"/>
+  &nbsp;
+
+  <img src="https://img.shields.io/badge/🤖%20AI%20%26%20Automation%20in%20DevOps-101820?style=for-the-badge&labelColor=101820"/>
+
 </p>
 
-<br>
+<hr>
 
 <p align="center">
-  ━━━━━━━━━━━━━━━━━━━
-  <b> N I T I K A &nbsp; R A W A T </b>
-  ━━━━━━━━━━━━━━━━━━━
+  💬 <strong>Always happy to connect, learn and collaborate! 😊</strong>
+</p>
+
+<p align="center">
+  ⭐ <strong>If you find my work interesting, consider starring my repositories!</strong>
+</p>
+
+<p align="center">
+  ✨ <strong>Keep Learning&nbsp;&nbsp;•&nbsp;&nbsp;Keep Building&nbsp;&nbsp;•&nbsp;&nbsp;Keep Automating</strong> ✨
+</p>
+
+<hr>
+
+<p align="center">
+  <strong> N I T I K A &nbsp; R A W A T </strong>
 </p>
 
 <p align="center">
